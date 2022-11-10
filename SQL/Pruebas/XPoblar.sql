@@ -1,0 +1,10 @@
+DELETE FROM cartas;
+DELETE FROM comics;
+DELETE FROM compras;
+DELETE FROM figurasdeaccion;
+DELETE FROM lineacompras;
+DELETE FROM lineaventas;
+DELETE FROM objetosdecoleccion;
+DELETE FROM telefonos;
+DELETE FROM usuarios;
+DELETE FROM ventas;
